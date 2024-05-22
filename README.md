@@ -32,8 +32,6 @@ The Random Forest model achieved the following metrics:
 - Recall: 97.18%
 - F1 Score: 97.18%
 
-A detailed classification report is provided in the project documentation.
-
 ## Conclusion
 
 The developed predictive model shows promising results in accurately classifying individuals into diseased or non-diseased categories based on their health attributes. This tool has the potential to assist healthcare professionals in disease diagnosis and patient management, leading to improved patient outcomes and reduced healthcare costs.
